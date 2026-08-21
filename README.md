@@ -50,6 +50,7 @@ A queda de satisfação no 2026T2 não ocorreu de forma uniforme entre os produt
 | CDB | -0,14 |
 | Tesouro Direto | -0,03 |
 | COE | +0,41 |
+
 ![Variação da satisfação por produto](images/variacao%20da%20satisfacao%20por%20produto.png)
 
 Os maiores sinais de deterioração foram encontrados em **Fundos** e **Carteira Administrada**.
