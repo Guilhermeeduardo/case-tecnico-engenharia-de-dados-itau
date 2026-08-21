@@ -50,6 +50,7 @@ A queda de satisfação no 2026T2 não ocorreu de forma uniforme entre os produt
 | CDB | -0,14 |
 | Tesouro Direto | -0,03 |
 | COE | +0,41 |
+<img width="701" height="431" alt="image" src="https://github.com/user-attachments/assets/d7aba92c-3007-4d8c-b05e-034ea016d6b7" />
 
 Os maiores sinais de deterioração foram encontrados em **Fundos** e **Carteira Administrada**.
 
@@ -61,7 +62,7 @@ Entre 2026T1 e 2026T2:
 - reclamações médias em 90 dias: **0,30 → 0,63 (+111%)**;
 - tempo médio de resolução: **41,1h → 82,3h (+100%)**;
 - suitability pendente: **5,4% → 13,2% (+145%)**.
-
+![Indicadores operacionais da Carteira Administrada](images/carteira_administrada.png)
 Os dados indicam uma associação entre a redução da satisfação e uma forte deterioração dos indicadores operacionais.
 
 ### Fundos
